@@ -1,0 +1,13 @@
+{
+  "name": "tauri-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "max <harumaxy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tauri": "^0.14.1"
+  },
+  "scripts": {
+    "tauri": "tauri"
+  }
+}
